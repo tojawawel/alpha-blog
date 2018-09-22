@@ -1,0 +1,33 @@
+body {
+  font-family: "Arial";
+  color: rgba(35, 82, 180, 0.9);
+  background-color: rgba(155, 200, 90, 0.5);
+}
+
+#rower p {
+  font-style: italic;
+  font-family: "Arial";
+  text-align: justify;
+  color: red;
+}
+h1 {
+  font-size: 7em;
+  color: rgba(255, 100, 10, 0.5);
+  margin: 30px;
+  padding: 5px;
+  background-color: rgba(155, 200, 90, 0.8);
+}
+#rowery {
+  display: inline-block;
+  width: 1800px;
+  height: 900px;
+  border: solid red 3px;
+}
+#rower {
+  float: left;
+  margin: 30px;
+}
+#rower2 {
+  float: right;
+  margin: 30px;
+}
